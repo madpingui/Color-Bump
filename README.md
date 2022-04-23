@@ -1,4 +1,5 @@
-# Color-Bump
+# Color Bump
+Game based on the mobile game Color Bumb.<br />
 Your objective is to avoid all the obstacles that are not the color of your character, if you reach the other side of the map you will win.<br />
 [Tutorial](https://youtu.be/tKAnzwMg970)
 
